@@ -1,0 +1,20 @@
+Source: yavdr-meta
+Section: metapackages
+Priority: optional
+Maintainer: Marco Scholl <develop@marco-scholl.de>
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
+
+Package: yavdr-minimal
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: Minimal core of yaVDR
+ This package depends on all of the packages in the yaVDR minimal system
+
+Package: yavdr-standard
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: The yaVDR standard system
+ This package depends on all of the packages in the yaVDR standard system.
