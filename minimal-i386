@@ -1,5 +1,7 @@
 yavdr-base
 yavdr-utils
 yavdr-vdr
+yavdr-dvb
+yavdr-vdr-plugins
 yavdr-remote
 yavdr-plymouth-theme
