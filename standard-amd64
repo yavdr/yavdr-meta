@@ -1,6 +1,10 @@
-yavdr-backup
 yavdr-minimal
+yavdr-backup
+yavdr-vdr
+yavdr-vdr-plugins
 yavdr-vdr-themes
 plymouth-theme-yavdr-logo
 plymouth-theme-yavdr-text
+yavdr-frontend-softhddevice
+yavdr-backend-vdr
 

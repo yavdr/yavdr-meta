@@ -1,8 +1,8 @@
 ubuntu-standard
 yavdr-base
 yavdr-utils
-yavdr-vdr
 yavdr-dvb
-yavdr-vdr-plugins
 yavdr-remote
 yavdr-sound
+yavdr-frontend-base
+yavdr-backend-base
