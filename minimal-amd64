@@ -4,5 +4,5 @@ yavdr-utils
 yavdr-dvb
 yavdr-remote
 yavdr-sound
-yavdr-frontend-base
-yavdr-backend-base
+yavdr-frontend
+yavdr-backend
