@@ -1,5 +1,5 @@
 build-essential
-cddb
+cdbs
 debhelper
 devscripts
 dput
@@ -35,4 +35,4 @@ python
 subversion
 txt2man
 vdr-dev
-yavdr-dev
+yavdr-utils-dev
