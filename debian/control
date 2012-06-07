@@ -18,3 +18,10 @@ Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: The yaVDR standard system
  This package depends on all of the packages in the yaVDR standard system.
+
+Package: yavdr-development
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: The yaVDR development packages
+ This package depends on all of the packages for development.
