@@ -8,5 +8,4 @@ plymouth-theme-yavdr-text
 yavdr-frontend-softhddevice
 yavdr-backend-vdr
 yavdr-network-wakeup
-yavdr-sound-alsa
 yavdr-sound-pulseaudio

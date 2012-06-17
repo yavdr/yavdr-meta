@@ -3,8 +3,8 @@ yavdr-base
 yavdr-utils
 yavdr-dvb
 yavdr-remote
-yavdr-sound-base
+yavdr-sound
 yavdr-frontend
 yavdr-backend
 nvidia-common
-yavdr-network-base
+yavdr-network
